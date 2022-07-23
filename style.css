@@ -1,0 +1,38 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+.heading{
+
+    text-align: center;
+    background: #B1C9E2;
+    padding: 1px;
+    margin-top: 20px;
+  
+
+
+}
+
+.inpttable{
+
+    display: flex;
+    margin-top: 100px;
+}
+
+.inpttable .inpt input{
+    width: 350px;
+     margin:20px ;
+    border: 1px solid green;
+    
+
+    
+    
+}
+
+.inpttable .table{
+    margin-left: 100px;
+    margin-top: 10px;
+   width: 550px;
+}
