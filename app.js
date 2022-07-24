@@ -51,10 +51,12 @@
        _td3.innerHTML=_gpa;
 
     
-     console.log(_name);
+     
 
 
       }
   }
+
+
 
 
